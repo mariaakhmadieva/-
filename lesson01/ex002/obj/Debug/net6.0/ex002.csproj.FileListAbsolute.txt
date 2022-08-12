@@ -1,0 +1,5 @@
+C:\Users\maria\Desktop\geekBrains\4. Языки программирования C#\семинары\-\lesson01\ex002\obj\Debug\net6.0\ex002.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\geekBrains\4. Языки программирования C#\семинары\-\lesson01\ex002\obj\Debug\net6.0\ex002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\Desktop\geekBrains\4. Языки программирования C#\семинары\-\lesson01\ex002\obj\Debug\net6.0\ex002.AssemblyInfoInputs.cache
+C:\Users\maria\Desktop\geekBrains\4. Языки программирования C#\семинары\-\lesson01\ex002\obj\Debug\net6.0\ex002.AssemblyInfo.cs
+C:\Users\maria\Desktop\geekBrains\4. Языки программирования C#\семинары\-\lesson01\ex002\obj\Debug\net6.0\ex002.csproj.CoreCompileInputs.cache
