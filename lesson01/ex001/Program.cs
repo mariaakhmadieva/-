@@ -5,4 +5,6 @@
 // -3 = 9
 // -7 = 49
 
-
+int value = 4;
+int result = value * value;
+Console.WriteLine(result);
