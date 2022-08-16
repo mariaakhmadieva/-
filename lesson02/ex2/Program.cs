@@ -8,6 +8,4 @@
 
 int [] array = {12, 32, 7, 85, 45, 6, 66, 78};
 
-int max = Max(array);
 
-Console.WriteLine(max);
