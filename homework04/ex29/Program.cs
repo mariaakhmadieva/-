@@ -12,7 +12,9 @@ int val5 = list.Next();
 int val6 = list.Next(); 
 int val7 = list.Next();
 
-
-
-Console.WriteLine(val) + Console.WriteLine(val1);
-
+List<int>numbers = new List<int>()
+{
+    val, val1, val2, val3, val4, val5, val6, val7
+};
+string result = string.Join(", ", numbers.ToArray());
+Console.WriteLine($"{{{result}}}");
